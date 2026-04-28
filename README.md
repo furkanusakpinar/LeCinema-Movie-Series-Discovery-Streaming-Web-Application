@@ -1,16 +1,62 @@
-# React + Vite
+<div align="center">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🎬 LeCinema - Modern Film & Dizi Platformu
 
-Currently, two official plugins are available:
+<p>TMDb API destekli, şık ve performanslı bir film keşif deneyimi.</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Axios](https://img.shields.io/badge/axios-671ddf?style=for-the-badge&logo=axios&logoColor=white)
+![TMDb](https://img.shields.io/badge/TMDB-01d277?style=for-the-badge&logo=themoviedb&logoColor=white)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### ✨ Özellikler
 
-## Expanding the ESLint configuration
+**🎥 Geniş İçerik Ağı**  
+Popüler, Trend ve En Çok Oy Alan film ve dizilere anında erişim.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**🔍 Detaylı İnceleme**  
+Oyuncu kadrosu, bütçe/hasılat bilgileri ve benzer içerik önerileri.
+
+**🎞️ Fragman Entegrasyonu**  
+Doğrudan platform üzerinden YouTube fragman izleme desteği.
+
+**📱 Responsive Tasarım**  
+Tüm cihazlarda (Mobil, Tablet, Masaüstü) kusursuz görünüm.
+
+---
+
+### 🚀 Kurulum
+
+Projeyi yerelinizde çalıştırmak için aşağıdaki adımları izleyin:
+
+```bash
+# Projeyi klonlayın
+git clone https://github.com/furkanusakpinar/Cinema-app.git
+
+# Proje dizinine gidin
+cd Cinema-app
+
+# Bağımlılıkları yükleyin
+npm install
+
+# Geliştirme sunucusunu başlatın
+npm run dev
+```
+
+---
+
+### 🛠️ Teknolojiler
+
+- **React 19** - UI Bileşenleri
+- **Vite** - Hızlı Build Aracı
+- **React Router Dom** - Sayfalar Arası Navigasyon
+- **Axios** - API İstekleri
+- **Vanilla CSS** - Özel Tasarım ve Animasyonlar
+
+---
+
+<p>Bu proje <b>TMDb API</b> kullanılarak geliştirilmiştir.</p>
+
+</div>
