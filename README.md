@@ -1,62 +1,56 @@
 <div align="center">
 
-# 🎬 LeCinema - Modern Film & Dizi Platformu
+# 🎬 LeCinema
 
-<p>TMDb API destekli, şık ve performanslı bir film keşif deneyimi.</p>
+### Modern Film & Dizi Keşif Platformu
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Axios](https://img.shields.io/badge/axios-671ddf?style=for-the-badge&logo=axios&logoColor=white)
-![TMDb](https://img.shields.io/badge/TMDB-01d277?style=for-the-badge&logo=themoviedb&logoColor=white)
+<br />
 
----
-
-### ✨ Özellikler
-
-**🎥 Geniş İçerik Ağı**  
-Popüler, Trend ve En Çok Oy Alan film ve dizilere anında erişim.
-
-**🔍 Detaylı İnceleme**  
-Oyuncu kadrosu, bütçe/hasılat bilgileri ve benzer içerik önerileri.
-
-**🎞️ Fragman Entegrasyonu**  
-Doğrudan platform üzerinden YouTube fragman izleme desteği.
-
-**📱 Responsive Tasarım**  
-Tüm cihazlarda (Mobil, Tablet, Masaüstü) kusursuz görünüm.
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/TMDB-01D277?style=for-the-badge&logo=themoviedb&logoColor=white" />
+</p>
 
 ---
 
-### 🚀 Kurulum
+#### 🌐 Platform Özellikleri
 
-Projeyi yerelinizde çalıştırmak için aşağıdaki adımları izleyin:
+| **Kategori** | **Açıklama** |
+| :--- | :--- |
+| **Geniş Arşiv** | Güncel film ve dizi listeleri |
+| **Fragmanlar** | HD kalitesinde video oynatıcı |
+| **Oyuncu Kadrosu** | Karakter ve oyuncu detayları |
+| **Responsive** | Tüm cihazlara tam uyumluluk |
+
+---
+
+#### 🚀 Hızlı Başlangıç
 
 ```bash
-# Projeyi klonlayın
+# Klonla ve Çalıştır
 git clone https://github.com/furkanusakpinar/Cinema-app.git
-
-# Proje dizinine gidin
 cd Cinema-app
-
-# Bağımlılıkları yükleyin
 npm install
-
-# Geliştirme sunucusunu başlatın
 npm run dev
 ```
 
 ---
 
-### 🛠️ Teknolojiler
+#### 🛠️ Teknolojiler
 
-- **React 19** - UI Bileşenleri
-- **Vite** - Hızlı Build Aracı
-- **React Router Dom** - Sayfalar Arası Navigasyon
-- **Axios** - API İstekleri
-- **Vanilla CSS** - Özel Tasarım ve Animasyonlar
+**Frontend Stack**  
+`React 19` • `Vite` • `Vanilla CSS`
+
+**Veri Kaynağı**  
+`TMDb API` • `Axios`
 
 ---
 
-<p>Bu proje <b>TMDb API</b> kullanılarak geliştirilmiştir.</p>
+<p align="center">
+  <b>© 2026 LeCinema</b><br />
+  <i>Veriler TMDb üzerinden canlı olarak çekilmektedir.</i>
+</p>
 
 </div>
