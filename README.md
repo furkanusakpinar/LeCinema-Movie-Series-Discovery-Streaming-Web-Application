@@ -47,6 +47,18 @@ Follow these steps to run the project in your local environment:
 
 <div align="left">
 
-**1. Clone the repository**
 ```bash
-git clone https://github.com/furkanusakpinar/Cinema-app.git
+# Clone the repository
+git clone https://github.com/furkanusakpinar/LeCinema-Movie-Series-Discovery-Streaming-Web-Application.git
+
+# Navigate to project folder
+cd LeCinema
+
+# Install dependencies
+npm install
+
+# Start the application
+npx expo start
+```
+
+</div>
